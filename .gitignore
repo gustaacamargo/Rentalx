@@ -1,3 +1,4 @@
 node_modules
 .vscode
 tmp/avatar/*
+tmp/cars/*
